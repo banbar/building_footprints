@@ -2,13 +2,20 @@
 
 ## Date: 4 December 2021, 11:00
 
-### Meting URL: [https://meet.google.com/ukb-uokc-jmx](https://meet.google.com/ukb-uokc-jmx)
-A live-demo to explain the experiment. This demo will be useful for those who have not used QGIS before.
+### Meeting URL: [https://meet.google.com/ukb-uokc-jmx](https://meet.google.com/ukb-uokc-jmx)
+This meeting will be a live-demo to explain the experiment. This demo will be useful for those who have not used QGIS before.
 
 ### Survey URL: https://forms.gle/A3f1T99fa6xvhBNG9
 
 ### Aim
-The aim of this voluntary experiment is to investigate how we digitize building footprints.
+The aim of this voluntary experiment is to analyse how we digitize building footprints.
+
+### License
+If you agree to complete this experiment, you are willing to allow Dr. Berk Anbaroğlu to analyse the building footprints that you digitised, and associate the results with the three-question survey information.
+
+The building footprints you digitised would be made available online, so that the spatial analysis on building footprints could be reproducible.
+
+No personal information (including the email addresses) will be shared with third parties.
 
 ### Duration
 At most ~30 minutes.
