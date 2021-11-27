@@ -1,6 +1,6 @@
 # Digitisation of Building Experiments
 
-## Date: 4 December 2021. 11:00
+## Date: 4 December 2021, 11:00
 
 ### Meting URL: [https://meet.google.com/ukb-uokc-jmx](https://meet.google.com/ukb-uokc-jmx)
 A live-demo to explain the experiment. This demo will be useful for those who have not used QGIS before.
