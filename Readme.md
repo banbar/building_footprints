@@ -16,13 +16,13 @@ At most ~30 minutes.
 ### Prerequisite
 QGIS 3 https://qgis.org/tr/site/
 
-### Data:
-* Under the `data/` folder of this repo:	https://github.com/banbar/building_footprints
-* Original source: https://landcover.ai/
-
 ### Process:
-*	Drag and drop the files under the `data/` folder to QGIS.
+*	Download this repo as a zip file and extract its contents.
+* Drag and drop the files under the `data/` folder to QGIS.
 * Right-click on `self_buildings`and click `Toggle Editing`.
 * Start digitizing the polygons that contain a point-of-interest (POI). The polygon IDs must match with the POI ID.
 * Once you have digitised the four buildings, right-click on the layer again, and press `Toggle Editing` once more to save your changes.
 * Upload the edited `self_buildings.geojeson` to Google Forms.
+
+### Credit:
+* Data source: https://landcover.ai/
