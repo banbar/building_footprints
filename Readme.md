@@ -1,9 +1,10 @@
 # Digitisation of Building Experiments
-## Date: 4 December 2021
-## URL: [https://meet.google.com/ukb-uokc-jmx](https://meet.google.com/ukb-uokc-jmx)
+## Date: 4 December 2021. 11:00
+### Live URL: [https://meet.google.com/ukb-uokc-jmx](https://meet.google.com/ukb-uokc-jmx)
+### Survey URL: https://forms.gle/A3f1T99fa6xvhBNG9
 
 ### Aim
-The aim of this experiment is to investigate how we digitize building footprints.
+The aim of this voluntary experiment is to investigate how we digitize building footprints.
 
 ### Duration
 It will take at most ~20 minutes.
@@ -20,4 +21,4 @@ QGIS 3 https://qgis.org/tr/site/
 * Right-click on `self_buildings`and click `Toggle Editing`.
 * Start digitizing the polygons that contain a point-of-interest (POI). The IDs must match with the POI ID.
 * Once you have digitised the four buildings, right-click on the layer again, and press `Toggle Editing` once more to save your changes.
-* Upload the saved GeoJSON file.
+* Save the GeoJSON file and upload it to Google Forms.
